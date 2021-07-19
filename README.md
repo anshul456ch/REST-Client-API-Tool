@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Postman Clone
+ REST-Client-API-Tool
   <br>
 </h1>
 <h4 align="center">REST Client API is an interactive and automatic tool for verifying the APIs of your project.It is built using <a href="http://reactjs.org" target="_blank">React</a>.</h4>
